@@ -7,7 +7,7 @@ import entity.Team;
 /**
  * GetAverageGradeUseCase class.
  */
-public final class GetAverageGradeUseCase{
+public final class GetAverageGradeUseCase {
     private final GradeDataBase gradeDataBase;
 
     public GetAverageGradeUseCase(GradeDataBase gradeDataBase) {
